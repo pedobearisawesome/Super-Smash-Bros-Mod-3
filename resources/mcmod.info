@@ -1,0 +1,16 @@
+[
+{
+  "modid": "asma",
+  "name": "Super Smash Bros Mod",
+  "description": "The Super Smash Bros mod is a mod that changes the player model adds several mobs from the games in and even adds custom player items!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["aggrotdpl", "BearOfDoom", a2937, ratalsoni, Team Blade],
+  "credits": "Team Blade 2015",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

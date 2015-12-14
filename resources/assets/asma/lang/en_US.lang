@@ -1,0 +1,119 @@
+entity.entityLakitu.name=Lakitu
+entity.entityYoyo.name=ThrownYoyo
+item.stockp.name=Stock(unused)
+item.character.name=Steve
+item.characterdhunt.name=Duck Hunt
+item.charactermario.name=Mario
+item.characterlink.name=Link
+item.characterrob.name=ROB
+item.dpad.name=Directional Pad
+item.fludd.name=FLUDD
+item.yoyo.name=Ness' Yoyo
+item.zapper.name=NES Zapper
+item.swordSmash.name=Beam Sword
+item.swordDuck.name=Duck Sword
+tile.blockStage.name=Stage Core
+
+item.ssbshard.name=Super Smash Bros Shard
+item.dollar.name=Smash Dollar
+item.coin.name=Smash Coin
+
+tile.ssbBlock.name=Super Smash Bros Block
+tile.ssbATM.name=Super Smash Bros ATM
+
+itemGroup.BlockTab=Super Smash Bros Blocks
+itemGroup.WeaponTab=Super Smash Bros Weapons
+itemGroup.CharacterTab=Super Smash Bros Characters
+itemGroup.TrophiesTab=Super Smash Bros Trophies
+itemGroup.RecordsTab=Super Smash Bros Records
+
+item.brawl.name=Music Disc
+record.recordbrawl.name=Super Smash Bros Brawl Main Theme
+
+item.SariasSong.name=Music Disc
+record.recordSariasSong.name=Sarias Song (Legend Of Zelda)
+
+item.brinstar.name=Music Disc
+record.recordbrinstar.name=Brinstar Metroid Theme (Metroid)
+
+item.darkpittheme.name=Music Disc
+record.recorddarkpittheme.name=Dark Pit's Theme (Kid Icarus Uprising)
+
+item.groundtheme.name=Music Disc
+record.recordgroundtheme.name=Ground Theme (Super Mario Brothers)
+
+item.kappn.name=Music Disc
+record.recordkappn.name=Kappn's Song (Animal Crossing)
+
+item.masterhand.name=Music Disc
+record.recordmasterhand.name=Master Hand Theme (Super Smash Bros)
+
+item.megmanmedley.name=Music Disc
+record.recordmegmanmedley.name=Megaman 2 Medley (Megaman)
+
+item.ocarinamedley.name=Music Disc
+record.recordocarinamedley.name=Ocarina Of Time Medley (Legend Of Zelda)
+
+item.pacmantheme.name=Music Disc
+record.recordpacmantheme.name=Pacman Theme (Pacman)
+
+item.pkmnbattle.name=Music Disc
+record.recordpkmnbattle.name=Pokemon Battle (Pokemon X and Y)
+
+item.sonicheroes.name=Music Disc
+record.recordsonicheroes.name=Sonic Heroes (Sonic)
+
+item.gerudovalley.name=Music Disc
+record.recordgerudovalley.name=Gerudo Valley (Legend Of Zelda)
+
+item.creditsssb4.name=Music Disc
+record.recordcreditsssb4.name=Credits (Super Smash Bros)
+
+item.darklord.name=Music Disc
+record.recorddarklord.name=Dark Lord (Find Mii)
+
+item.drmario.name=Music Disc
+record.recorddrmario.name=Dr Mario (Dr Mario)
+
+item.femaintheme.name=Music Disc
+record.recordfemaintheme.name=Main Theme (fire Emblem)
+
+item.greengreens.name=Music Disc
+record.recordgreengreens.name=Green Greens (kirby)
+
+item.livelearn.name=Music Disc
+record.recordlivelearn.name=Live and Learn (sonic)
+
+item.lumiosecity.name=Music Disc
+record.recordlumiosecity.name=Lumiose City (pokemon)
+
+item.meleemenu.name=Music Disc
+record.recordmeleemenu.name=Melee Menu (Super Smash Bros)
+
+item.wuhuisland.name=Music Disc
+record.recordwuhuisland.name=Wuhu Island theme (Wii Sports)
+
+item.ywikon.name=Music Disc
+record.recordywikon.name=You Will Know Our Names (xenoblade)
+
+container.storage=Super Smash Bros ATM
+
+entity.entityLakitu.name=Lakitu
+entity.entityYoyo.name=ThrownYoyo
+item.stockp.name=Stock(unused)
+item.character.name=Steve
+item.characterdhunt.name=Duck Hunt
+item.charactermario.name=Mario
+item.characterlink.name=Link
+item.characterrob.name=ROB
+item.dpad.name=Directional Pad
+item.fludd.name=FLUDD
+item.yoyo.name=Ness' Yoyo
+item.zapper.name=NES Zapper
+item.swordSmash.name=Beam Sword
+item.swordDuck.name=Duck Sword
+tile.blockStage.name=Stage Core
+
+entity.pikachu.name=Pikachu
+entity.mario.name=Mario
+entity.donkey.name=Donkey Kong
